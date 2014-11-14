@@ -1,0 +1,37 @@
+{
+    "name": "Radio.Solt.Biz",
+    "main": "http://radio.solt.biz/?desktop=true",
+    "version": "0.0.1",
+    "window": {
+        "title": "Radio.Solt.Biz",
+        "icon": "icon/icon.png",
+        "toolbar": false,
+        "frame": true,
+        "width": 700,
+        "height": 600,
+        "resizable": false,
+        "position": "mouse",
+        "toolbar": false
+    },
+
+    "node-remote": "radio.solt.biz",
+
+    "webkit": {
+        "plugin": true
+    },
+
+    "repository": {
+        "type" : "git",
+        "url" : "https://github.com/florentsolt/radio.solt.biz"
+    },
+
+    "dependencies": {
+    },
+
+    "devDependencies": {
+        "grunt": "*",
+        "grunt-contrib-clean": "*",
+        "grunt-node-webkit-builder": "*",
+        "grunt-contrib-copy": "*"
+    }
+}
