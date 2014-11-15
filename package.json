@@ -1,14 +1,14 @@
 {
     "name": "Radio.Solt.Biz",
     "main": "http://radio.solt.biz/?desktop=true",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "window": {
         "title": "Radio.Solt.Biz",
         "icon": "icon/icon.png",
         "toolbar": false,
-        "frame": true,
-        "width": 700,
-        "height": 600,
+        "frame": false,
+        "width": 620,
+        "height": 540,
         "resizable": false,
         "position": "mouse",
         "toolbar": false
