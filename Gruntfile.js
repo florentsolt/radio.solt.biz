@@ -30,7 +30,7 @@ module.exports = function(grunt) {
           files: [
             {
               src: 'libraries/win/ffmpegsumo.dll',
-              dest: 'build/Radio.Solt.Biz/win/Radio.Solt.Biz/ffmpegsumo.dll',
+              dest: 'build/Radio.Solt.Biz/win/ffmpegsumo.dll',
               flatten: true
             },
             {
