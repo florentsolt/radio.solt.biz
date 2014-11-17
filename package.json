@@ -1,17 +1,16 @@
 {
     "name": "Radio.Solt.Biz",
     "main": "http://radio.solt.biz/?desktop=true",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "window": {
         "title": "Radio.Solt.Biz",
         "icon": "icon/icon.png",
         "toolbar": false,
-        "frame": false,
+        "frame": true,
         "width": 620,
         "height": 540,
         "resizable": false,
-        "position": "mouse",
-        "toolbar": false
+        "position": "mouse"
     },
 
     "node-remote": "radio.solt.biz",
@@ -32,6 +31,7 @@
         "grunt": "*",
         "grunt-contrib-clean": "*",
         "grunt-node-webkit-builder": "*",
-        "grunt-contrib-copy": "*"
+        "grunt-contrib-copy": "*",
+        "grunt-contrib-compress": "*"
     }
 }
