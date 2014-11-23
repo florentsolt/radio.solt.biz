@@ -1,4 +1,4 @@
-BBC Radio 1xtra Player
+Radio.Solt.Biz Player
 ======================
 
 How to install:
