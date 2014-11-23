@@ -8,7 +8,7 @@
         "toolbar": false,
         "frame": true,
         "width": 620,
-        "height": 540,
+        "height": 360,
         "resizable": false,
         "position": "mouse"
     },
