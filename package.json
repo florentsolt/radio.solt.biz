@@ -1,6 +1,6 @@
 {
     "name": "Radio.Solt.Biz",
-    "main": "http://radio.solt.biz/?desktop=true",
+    "main": "http://radio.solt.biz/",
     "version": "0.2.0",
     "window": {
         "title": "Radio.Solt.Biz",
