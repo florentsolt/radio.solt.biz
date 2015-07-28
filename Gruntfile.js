@@ -46,7 +46,7 @@ module.exports = function(grunt) {
           archive: 'dist/osx.zip'
         },
         files: [
-          {expand: true, cwd: 'build/Radio.Solt.Biz/osx', src: ['**'], dest: ''}
+          {expand: true, cwd: 'build/Radio.Solt.Biz/osx32', src: ['**'], dest: ''}
         ]
       },
       win: {
@@ -54,7 +54,7 @@ module.exports = function(grunt) {
           archive: 'dist/win.zip'
         },
         files: [
-          {expand: true, cwd: 'build/Radio.Solt.Biz/win', src: ['**'], dest: ''}
+          {expand: true, cwd: 'build/Radio.Solt.Biz/win32', src: ['**'], dest: ''}
         ]
       }
     }
